@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T10:37:22.265Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SfAXIwkN0WQCYVT26DQJ" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T10:42:39.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3bEpr9wVP1iJVYK9Mlqb" version="16.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -65,12 +65,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q8d5V3itDqxCBHE6NXQo-28" value="&lt;b&gt;3-1.&amp;nbsp; Bifrost KSM (destroy, cross-chain transfer part-1)&lt;/b&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#CC0000;strokeColor=#CC0000;exitX=0.956;exitY=0.177;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8d5V3itDqxCBHE6NXQo-10" target="q8d5V3itDqxCBHE6NXQo-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="500" as="sourcePoint" />
-            <mxPoint x="290" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q8d5V3itDqxCBHE6NXQo-32" value="&lt;font color=&quot;#cc0000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;3-2. KSM (transfer, cross-chain transfer part-2)&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFF66;strokeColor=#CC0000;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="q8d5V3itDqxCBHE6NXQo-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="420" as="sourcePoint" />
@@ -118,6 +112,20 @@
         </mxCell>
         <mxCell id="q8d5V3itDqxCBHE6NXQo-41" value="Asset flows while a user stakes in Bifrost" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontColor=#000000;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="135" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8d5V3itDqxCBHE6NXQo-42" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=17;fontColor=#000000;strokeColor=#CC0000;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.767;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q8d5V3itDqxCBHE6NXQo-10" target="q8d5V3itDqxCBHE6NXQo-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="570" as="sourcePoint" />
+            <mxPoint x="290" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q8d5V3itDqxCBHE6NXQo-43" value="&lt;b style=&quot;color: rgb(204 , 0 , 0) ; font-size: 11px&quot;&gt;3-1.&amp;nbsp; Bifrost KSM (destroy, cross-chain transfer part-1)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontColor=#000000;" vertex="1" connectable="0" parent="q8d5V3itDqxCBHE6NXQo-42">
+          <mxGeometry x="-0.0677" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
