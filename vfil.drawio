@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T01:38:18.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.3.3" etag="VCKUzDo_8lO2nY-w5lb6" type="github"><diagram id="1qVJCfuYaMeoUfc-0dYW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-24T01:59:35.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XEUrRoJzHwY4Ep46B_ie" version="20.3.3" type="github">
+  <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
+    <mxGraphModel dx="946" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QOcSFR8y_e22kkafj4sU-1" value="Bifrost网络" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-2" value="Filecoin网络" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-3" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="241.25" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-5" value="Bifrost Dapp" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="66" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-6" value="用户账户" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-7" value="用户账户" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-6" target="QOcSFR8y_e22kkafj4sU-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-9" value="owner(多签)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="598.75" y="190" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-10" value="miner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="265" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-11" value="国库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="168.75" y="190" width="72.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-3" target="QOcSFR8y_e22kkafj4sU-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-14" value="1. 跨入FIL至Bifrost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOcSFR8y_e22kkafj4sU-12">
+          <mxGeometry x="-0.205" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-5" target="QOcSFR8y_e22kkafj4sU-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="120" as="sourcePoint" />
+            <mxPoint x="550" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-18" value="2. 用户签名转账到owner账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOcSFR8y_e22kkafj4sU-17">
+          <mxGeometry x="-0.2699" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-7" target="QOcSFR8y_e22kkafj4sU-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="210" as="sourcePoint" />
+            <mxPoint x="610" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="240" />
+              <mxPoint x="560" y="210" />
+              <mxPoint x="590" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="3. FIL转入&lt;br&gt;owner账户" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOcSFR8y_e22kkafj4sU-19">
+          <mxGeometry x="-0.412" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="4. 发行FIL&lt;br&gt;至用户账户" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-6">
+          <mxGeometry x="0.0421" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="200" />
+              <mxPoint x="313" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
