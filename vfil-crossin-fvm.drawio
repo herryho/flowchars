@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T07:33:22.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YRXIzgVUuzO1gupKURbt" version="20.5.1" type="github"><diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">5Vpdc+I2FP01mmkflrH87UcMZNuZdDZtptPNU8fYAtwYyyOLAP31lWzJ2BIGwposO92HrHQty9K5R+feqwRYk/XuM4mK1W84QRkwjWQHrCkwTWibLvuPW/a1xZeGJUkTMehgeE7/RcJoCOsmTVDZGUgxzmhadI0xznMU044tIgRvu8MWOOt+tYiWSDM8x1GmW/9KE7qSu/AO9l9QulzJL0M3qJ+sIzlY7KRcRQnetkzWDFgTgjGtW+vdBGUcPIlL/d5Dz9NmYQTl9JIXfv8SPz/84e//Rqb5+hot/rHLPz+JWd6ibCM2HKYLgksKZh4IpyCAVSMEwUTsgu4lNGx65gXWCberlKLnIor5ky0jArOt6DpjPciaUVnUrlmkO8RWE+pLl+tAhKJdyyS28hnhNaJkz4bIpxJWwauGMNuDl6AnbKu2h6QxEsxYNnMfwGMNgd87sDQ1LB/SDMU4ze8dTMe5OzAtDUyOXWCDsQ9mLvB9EHoaiOyIFby5WWfjmGLC0OEgpOw4P0ZzlD3hMqUpztmQOaYUr1sDxlm65A8oVgDHG5qlOZo0AmMMA7ppw5HpdHB3dditI6i7twLd6VUD05hGRdELeEFwjMryPHvnUfy6JHiTJ19qWIV9CBJ7CpiuzmHzI9F0L6HwjP1kFvc8qVdoFy05d8MCkZQtEZGD9UmazPM+qIRDRNqBsG9AlALi6Ux2j2Bv3Qp77/+DvaNGwu+Nva9jr0W7PBnz5Iz1csxFIEyicsXDWYVKCzBuf4ooQzevLKZhMWtJCX5tEjKOe6Up1QRcntEupV/FDLz9wu0jR/Smu9aw6V52crb5r+1O6y3ePbxW9eR7vS4s8YbE6LxA0IgsET1PZpR0UlWdEC2HO0ccLm0EZRFN37oJ7jEWiC88sQyGHvhmKWfdchQi1fsWb7UTUmUiGyoTGcpENTDaRBUpm21fz9NA4yne5oj8BGYOGNsgGHPJGE9BOPu5VxjiPQtiCSLWBaGvZujj/FwsLIU8OAPpQ+CPlNAIA10iPHPk9HNmcJGQvm+hv2YQEF0qvmdi7CkUNV1HA846Apu0DQ+bXrBVYcyrAlsAAovRlccz1h1DzuSA1R39ge0H4C9075K/erV3KsrFWVSWadxF9JKYZSn/Tocw1nlqJSinwpp5u7hmXRjXnPuKa4ESjuC1cc1WReNj4xq0NWrCEeu3hMIBPotxzsOvj9zoeyC0mkpPJTHzTlU8K2oryuWYsQO1C21ZR6/TJOFzhAQxQYjm1XycVwXfd4WEEwJnepRpp4+cKh3N7Z/4CmhfsB2TlE+M/kZXUuxv45AcgheLEt3Gq0dKGtVX8Ya8NUn0depjtNQHnhSb6/XBuVAf7ivvdRR9aC4T3qsP6m0bVINUjz4wb0b71jBxkHoXbKvfCToXxKxRzzgsTfXqz6zFRy+/RXZdZSkG8KeVQE3BeNKqzJ1qsFFl5hcU7HekVvK8DqJWbhB0fBncvVzp1dVN5Kop6l/aGnWmwD/U9C/tZz2JUNVT06rr1c+7UP2C+1I/9Ybv2uzIVUoqeGF29F71c9QszDZOrqtvg73j1XDwEeoqQ07rVFlcXUUiJ8RTZHfAdDPK6zRWVLtL3voBVVTKyBAqassMUrhMFirfeDRgd1Lodie4ncaa+mWAXcdaxoCH6teN1S2AP+H80NjQpP5XXY0PIN7wIumGUuF7K1v4YZWtvH45K97uheItKGSMDFvlkeDqx8i7qaiZeW1yaymyq/2GeCB5N31lwcZpubagdXSDR+V6mESJdQ9/3VEPP/yNjDX7Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-14T08:09:04.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wmZuMzRJ6nhTl-JfX20t" version="20.5.1" type="github">
+  <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
+    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QOcSFR8y_e22kkafj4sU-1" value="Bifrost网络" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-2" value="Filecoin网络" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="550" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-6" value="用户账户" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-7" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-6" target="QOcSFR8y_e22kkafj4sU-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-9" value="FVM contract" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="598.75" y="190" width="72.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-10" value="worker" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="710" y="265" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-11" value="cross-chain module" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="168.75" y="190" width="72.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="210" as="sourcePoint" />
+            <mxPoint x="630" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="230" />
+              <mxPoint x="490" y="190" />
+              <mxPoint x="500" y="160" />
+              <mxPoint x="530" y="140" />
+              <mxPoint x="580" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-18" value="1. user register his Filecoin&lt;br&gt;&amp;nbsp;accountcand Bifrost Account pair" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.2699" y="9" relative="1" as="geometry">
+            <mxPoint x="25" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-7" target="QOcSFR8y_e22kkafj4sU-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="210" as="sourcePoint" />
+            <mxPoint x="610" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="240" />
+              <mxPoint x="560" y="210" />
+              <mxPoint x="590" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="3. user stakes&amp;nbsp;&lt;br&gt;FIL to staking&amp;nbsp;&lt;br&gt;contract." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.412" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="4. 发行FIL&lt;br&gt;至用户账户" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-6" edge="1">
+          <mxGeometry x="0.0421" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="200" />
+              <mxPoint x="313" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-1" value="Relayer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-2" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-9" target="QOcSFR8y_e22kkafj4sU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="130" as="sourcePoint" />
+            <mxPoint x="740" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="180" />
+              <mxPoint x="750" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-3" value="miner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-4" value="miner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="womPOICztjm91fhaPhi_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="380" as="sourcePoint" />
+            <mxPoint x="720" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-10" target="womPOICztjm91fhaPhi_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="510" as="sourcePoint" />
+            <mxPoint x="810" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-9" target="womPOICztjm91fhaPhi_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="540" as="sourcePoint" />
+            <mxPoint x="630" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-13" value="2. Relay account pair registration event." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="womPOICztjm91fhaPhi_-11">
+          <mxGeometry x="0.2408" relative="1" as="geometry">
+            <mxPoint x="-160" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-12" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="womPOICztjm91fhaPhi_-1" target="QOcSFR8y_e22kkafj4sU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="510" as="sourcePoint" />
+            <mxPoint x="320" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
