@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T08:15:22.666Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MY-MvH9T8CbmeO1yTHhi" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T09:36:12.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-DSIMR_zbQ3dxhe_WGnn" version="20.5.1" type="github">
   <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
-    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="3. user stakes&amp;nbsp;&lt;br&gt;FIL to staking&amp;nbsp;&lt;br&gt;contract." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-19" vertex="1" connectable="0">
+        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="3. User transfer&amp;nbsp;&lt;br&gt;FIL to crossing&amp;nbsp;&lt;br&gt;contract." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-19" vertex="1" connectable="0">
           <mxGeometry x="-0.412" y="-3" relative="1" as="geometry">
             <mxPoint x="1" y="-16" as="offset" />
           </mxGeometry>
