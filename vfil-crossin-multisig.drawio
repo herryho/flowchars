@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T08:38:47.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Yn_X1VQjtMly123Z_o5F" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T13:24:50.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="acWQ8AnqFh_7d1zsgRz-" version="21.0.2" type="github">
   <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,20 +28,18 @@
         <mxCell id="QOcSFR8y_e22kkafj4sU-11" value="cross-in-out module" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="168.75" y="190" width="72.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-7" target="QOcSFR8y_e22kkafj4sU-9" edge="1">
+        <mxCell id="QOcSFR8y_e22kkafj4sU-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" parent="1" target="QOcSFR8y_e22kkafj4sU-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="210" as="sourcePoint" />
-            <mxPoint x="610" y="160" as="targetPoint" />
+            <mxPoint x="540" y="270" as="sourcePoint" />
+            <mxPoint x="635" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="240" />
-              <mxPoint x="560" y="210" />
-              <mxPoint x="590" y="190" />
+              <mxPoint x="500" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="3. Transfer &lt;br&gt;FIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-19" vertex="1" connectable="0">
+        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="2. User transfer&lt;br&gt;FIL to Mutisig &lt;br&gt;owner account" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-19" vertex="1" connectable="0">
           <mxGeometry x="-0.412" y="-3" relative="1" as="geometry">
-            <mxPoint x="1" y="9" as="offset" />
+            <mxPoint x="2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="5. Issue FIL&lt;br&gt;into user&#39;s&lt;br&gt;Bifrost account" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-6" edge="1">
@@ -96,20 +94,9 @@
             <mxPoint x="320" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z5sPciKj7eO9m0xCSq6S-4" value="1. User calls wallet in Bifrost Dapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z5sPciKj7eO9m0xCSq6S-3" vertex="1" connectable="0">
+        <mxCell id="z5sPciKj7eO9m0xCSq6S-4" value="1. User calls Metamask in Bifrost Dapp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z5sPciKj7eO9m0xCSq6S-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1169" y="2" relative="1" as="geometry">
             <mxPoint x="11" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5sPciKj7eO9m0xCSq6S-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="z5sPciKj7eO9m0xCSq6S-1" target="QOcSFR8y_e22kkafj4sU-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="170" as="sourcePoint" />
-            <mxPoint x="470" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z5sPciKj7eO9m0xCSq6S-6" value="2. User signs cross-in&lt;br&gt;FIL transction to Bifrost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="z5sPciKj7eO9m0xCSq6S-5" vertex="1" connectable="0">
-          <mxGeometry x="-0.6737" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
