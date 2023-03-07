@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:15:47.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HS7Z9Gej1nXem5UDSykv" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:17:24.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9pj-cOwWKugxKoVjtlPl" version="21.0.2" type="github">
   <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,6 +346,21 @@
         <mxCell id="sweHYaOIXjVTSPfrOcY_-69" value="8. Sync &lt;br&gt;vFill/FIL&lt;br&gt;&amp;nbsp;exchange &lt;br&gt;rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-68">
           <mxGeometry x="-0.1039" y="2" relative="1" as="geometry">
             <mxPoint x="21" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.375;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sweHYaOIXjVTSPfrOcY_-6" target="sweHYaOIXjVTSPfrOcY_-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="740" as="sourcePoint" />
+            <mxPoint x="530" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="720" />
+              <mxPoint x="540" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-72" value="1. Transfer&lt;br&gt;erc-20 vFIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-71">
+          <mxGeometry x="-0.2139" relative="1" as="geometry">
+            <mxPoint x="-2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
