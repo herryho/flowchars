@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:17:24.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9pj-cOwWKugxKoVjtlPl" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T16:18:48.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sOHuY1rW1g5aK0vOjkj_" version="21.0.2" type="github">
   <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,11 +186,6 @@
             <mxPoint x="579" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sweHYaOIXjVTSPfrOcY_-31" value="7. Relay staking&lt;br&gt;&amp;nbsp;status." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-30">
-          <mxGeometry x="0.0066" y="3" relative="1" as="geometry">
-            <mxPoint x="-4" y="26" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sweHYaOIXjVTSPfrOcY_-35" value="vFil contract" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="576.5" y="680" width="115" height="40" as="geometry" />
         </mxCell>
@@ -323,7 +318,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sweHYaOIXjVTSPfrOcY_-64" value="11. Transfer FiIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-63">
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-64" value="11. Transfer FiL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-63">
           <mxGeometry x="-0.554" y="1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -358,9 +353,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sweHYaOIXjVTSPfrOcY_-72" value="1. Transfer&lt;br&gt;erc-20 vFIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-71">
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-72" value="1. Transfer&lt;br&gt;erc-20 vFil" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-71">
           <mxGeometry x="-0.2139" relative="1" as="geometry">
             <mxPoint x="-2" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-73" value="Proxy" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="549" y="820" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.596;exitY=-0.062;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sweHYaOIXjVTSPfrOcY_-35" target="sweHYaOIXjVTSPfrOcY_-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="660" as="sourcePoint" />
+            <mxPoint x="700" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sweHYaOIXjVTSPfrOcY_-75" value="2. Burn erc-20 vFil." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sweHYaOIXjVTSPfrOcY_-74">
+          <mxGeometry x="0.2889" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
