@@ -1,111 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T00:46:40.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KPKwE9sVyMnfgLj3YHx-" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T00:58:17.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Td8Ry1MBqb2jakwUxF08" version="21.0.2" type="github">
   <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QOcSFR8y_e22kkafj4sU-1" value="Bifrost网络" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="210" width="170" height="170" as="geometry" />
+        <mxCell id="QOcSFR8y_e22kkafj4sU-1" value="&lt;b&gt;Bifrost&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="180" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-2" value="Filecoin网络" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="550" y="210" width="170" height="170" as="geometry" />
+        <mxCell id="QOcSFR8y_e22kkafj4sU-2" value="&lt;b&gt;Filecoin&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="550" y="180" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="QOcSFR8y_e22kkafj4sU-6" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QOcSFR8y_e22kkafj4sU-7" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="536" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QOcSFR8y_e22kkafj4sU-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-6" target="QOcSFR8y_e22kkafj4sU-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="350" as="sourcePoint" />
-            <mxPoint x="410" y="300" as="targetPoint" />
+            <mxPoint x="360" y="320" as="sourcePoint" />
+            <mxPoint x="410" y="270" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-9" value="FVM contract" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="598.75" y="190" width="72.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QOcSFR8y_e22kkafj4sU-11" value="cross-chain module" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="168.75" y="190" width="72.5" height="60" as="geometry" />
+          <mxGeometry x="168.75" y="160" width="72.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="210" as="sourcePoint" />
-            <mxPoint x="630" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="500" y="230" />
-              <mxPoint x="490" y="190" />
-              <mxPoint x="500" y="160" />
-              <mxPoint x="530" y="140" />
-              <mxPoint x="580" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-18" value="1. user register his Filecoin&lt;br&gt;&amp;nbsp;accountcand Bifrost Account pair" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.2699" y="9" relative="1" as="geometry">
-            <mxPoint x="25" y="-21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-7" target="QOcSFR8y_e22kkafj4sU-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="210" as="sourcePoint" />
-            <mxPoint x="610" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="540" y="240" />
-              <mxPoint x="560" y="210" />
-              <mxPoint x="590" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-20" value="3. User transfer&amp;nbsp;&lt;br&gt;FIL to crossing&amp;nbsp;&lt;br&gt;contract." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QOcSFR8y_e22kkafj4sU-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.412" y="-3" relative="1" as="geometry">
-            <mxPoint x="1" y="-16" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="5. Issue FIL&lt;br&gt;into user&#39;s&lt;br&gt;Bifrost account" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-6" edge="1">
+        <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="3. Issue FIL&lt;br&gt;into user&#39;s&lt;br&gt;Bifrost account" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-6" edge="1">
           <mxGeometry x="0.2785" y="7" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="220" as="sourcePoint" />
-            <mxPoint x="340" y="170" as="targetPoint" />
+            <mxPoint x="290" y="190" as="sourcePoint" />
+            <mxPoint x="340" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="200" />
-              <mxPoint x="313" y="220" />
+              <mxPoint x="280" y="170" />
+              <mxPoint x="313" y="190" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="womPOICztjm91fhaPhi_-1" value="Relayer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="390" y="390" width="60" height="80" as="geometry" />
+          <mxGeometry x="390" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="womPOICztjm91fhaPhi_-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="335" as="sourcePoint" />
-            <mxPoint x="720" y="335" as="targetPoint" />
+            <mxPoint x="710" y="305" as="sourcePoint" />
+            <mxPoint x="720" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="womPOICztjm91fhaPhi_-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-9" target="womPOICztjm91fhaPhi_-1" edge="1">
+        <mxCell id="womPOICztjm91fhaPhi_-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="pEqKj6FcFsn8LoiVPYFD-2" target="womPOICztjm91fhaPhi_-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="540" as="sourcePoint" />
-            <mxPoint x="630" y="490" as="targetPoint" />
+            <mxPoint x="635" y="230" as="sourcePoint" />
+            <mxPoint x="630" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="womPOICztjm91fhaPhi_-13" value="2. Relay account pair &lt;br&gt;registration event." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="womPOICztjm91fhaPhi_-11" vertex="1" connectable="0">
+        <mxCell id="womPOICztjm91fhaPhi_-13" value="2. Relay transfer info." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="womPOICztjm91fhaPhi_-11" vertex="1" connectable="0">
           <mxGeometry x="0.2408" relative="1" as="geometry">
-            <mxPoint y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="womPOICztjm91fhaPhi_-14" value="4. Relay FIL cross-in&lt;br&gt;Bifrost info.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="womPOICztjm91fhaPhi_-11" vertex="1" connectable="0">
-          <mxGeometry x="0.1974" y="-3" relative="1" as="geometry">
-            <mxPoint x="-192" y="13" as="offset" />
+            <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="womPOICztjm91fhaPhi_-12" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="womPOICztjm91fhaPhi_-1" target="QOcSFR8y_e22kkafj4sU-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="510" as="sourcePoint" />
-            <mxPoint x="320" y="460" as="targetPoint" />
+            <mxPoint x="270" y="480" as="sourcePoint" />
+            <mxPoint x="320" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="womPOICztjm91fhaPhi_-15" value="FIL Cross In Bifrost - FVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="120" y="60" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEqKj6FcFsn8LoiVPYFD-1" value="vFil contract" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="596" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pEqKj6FcFsn8LoiVPYFD-2" value="Cross contract" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="591" y="340" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pEqKj6FcFsn8LoiVPYFD-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.625;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOcSFR8y_e22kkafj4sU-7" target="pEqKj6FcFsn8LoiVPYFD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="670" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pEqKj6FcFsn8LoiVPYFD-7" value="1. Transfer FIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pEqKj6FcFsn8LoiVPYFD-5">
+          <mxGeometry x="-0.3477" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
