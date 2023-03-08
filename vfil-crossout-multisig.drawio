@@ -1,1 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T10:57:05.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="N5XNVzRgcFO-R_WJBEB6" version="20.5.3" type="github"><diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">3Vpdd6I6FP01PuriG3kc7bQz63ZWnfZ2zfRpVoQoTJF4IVadX38TSPhIAGmFXntflBxCCDv77LOJjvT55nATg63/DXkwHGmKdxjpVyNNUw3NIl80cswituVkgXUceKxTEXgI/kAWVFh0F3gwqXTECIU42FaDLooi6OJKDMQx2le7rVBYvesWrKEUeHBBKEd/BB72s+hUs4v4FxisfX5nlT/fBvDO7EkSH3hoXwrpn0f6PEYIZ0ebwxyGFDyOS3bddcPZfGIxjHCXC77fuQ/X99PjL6hpz89g9dtIHsdslBcQ7tgDz4JVjBLM5oyPHAgyGMGcNGZ7P8DwYQtcemZPlp3EfLwJSUslhyDZZguxCg6Q3HsmT5TfFcYYHkohNvEbiDYQx0fShZ/lIDIW5fTYF2ui2izml9eDBwHjwTofu4CKHDC0XoGcJiF3HYTQRUF0WdCZ5sVBZ0nQ7RIYS7CRhNnSQx8ewBpFBI4tjAMyBdI3jy54SDsNb4oqkxi1H3Q1S0DXltG1asDVh8LW/v9ga4pJ/19jO5WwlVM98j7RqkNaEYpoynsg8Wkup6iUAKPxBcAE3SiNaIpOogmO0XNeaSjuMdpFXjqAQlrwEOCfbAR6/ETjE5O1rg6lbldH3ojIw/8sN0pX0WZxWdri1zUuYYJ2sQtPJzgG8Rri02SFXqUGy4QoLbhZs+A8FsMQ4OClWrnrWMDusCBijQu+6UIu66ZApOy52VXlSisMZKjCQIowUAaMNFBKyvyx385TR+Lptx1xTEmwHmlWSECbLYkiWGt6dLePWuTBPYYBYV+snxaAZcbT22UeAO7zOmXv3Q6TYbgyJEwkzJ5UwplObLOCt+rIQmFrE1NmzmAlTpWNlUtsVTJ2fUAdgrJB3o6g/YGBV60zgLd6AH6PNou7r/M/+PfGUVc+WPjBrxpDe09U4fixOa47gqDU4FxXCadDoSy7jDMq4fkVrhHiC6kstlgQdPNtlcXWTgzUX2Wpzy45vdoW3g1BkgRu23JXSFE4lYlq5PbkqXy2xquMjYmed16UbGwjnRrJZGo508SBOrmhNkk66Yaci+KspVepZoompitnxYEMZzA3VA+/IXFWn5B2WhfI9/XXW/KZVWe0w7JFyndElCBaIXKpBTa0METLZJsTo5wAZAFvwRKGwst9GKyp1XcJgSirZlT/AxeEn9iJTeB5dIxZDEn9AMt0PEq9LYUmBcucjcyrWjK2p6tYafL9MnaXUXlLqq4CkYR0bKOyjmO9F56NVUermgi9OgRarRI4DDPkPZxe1YxJT1G9nkpnGt7VapSn4f2tRRG5jNUJYicda/W0ZSFrE7wLEbLc5HMhU98oZLmdahpoaCEzJbpm2jWn2kW+76h6KU0buEQBcJW72WbDHIUoLlzaKghDIdRduer8czVDVijCD2xSKm9nblkzhtkstmSzPNi+kX1z/907HG++3Gz+OqjOP4/72brmnURaHHcXv5Rs0Gs0p2SapqbZVSK6eCZlYmll6Wr2Te+zXaRelrDk2zp8f1IkUFdh0YUtelV8b2sQFkKS1MHwbswnNE9Y/ClAV9rnpdTPq8iFbAZvVbnaZJFrskrd2mO6i51JXWbTMuN2Cd6rNel7sF7mlDOfW+he+GtYlUF1YYBefFctNPqwepirF5PDk+rFtbDVe00U1a7un6unNtDfwX99BJ0U67Ekb111UhWcnCoKbk86madCve7J/cUHtNr7q84r+wvGk+PQGaf30G35LVujuj3bxRF/vYZeodyTC5Zurk9nS/eYqIaiOL1kkbDTLjB/OLGWXzqGEevuRvOETut2ZxN8nh47HeX4sn7lFH9Vf7Mam++kxtJ9Tqif9LcB7R3UT/5Li0HV7+8YRMkqda7ZqzpG5IP+I+OS9Y+nfB/6R4Cobu/ZvbB4bIg/sZ+vh6RZ/Bsv6178p1H//C8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-08T07:25:13.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bFaZY2gQltlNtLC-fSrE" version="21.0.2" type="github">
+  <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
+    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QOcSFR8y_e22kkafj4sU-1" value="&lt;b&gt;Bifrost&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-2" value="&lt;b&gt;Filecoin&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="550" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-6" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-7" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-6" target="QOcSFR8y_e22kkafj4sU-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-9" value="Multisig&lt;br&gt;Owner" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="598.75" y="190" width="72.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QOcSFR8y_e22kkafj4sU-11" value="cross-chain module" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="168.75" y="190" width="72.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-1" value="Relayer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="390" y="390" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="335" as="sourcePoint" />
+            <mxPoint x="720" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-11" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;" parent="1" source="womPOICztjm91fhaPhi_-1" target="QOcSFR8y_e22kkafj4sU-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="500" as="sourcePoint" />
+            <mxPoint x="630" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-14" value="3. Relay FIL cross-out&lt;br&gt;Bifrost info.&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="womPOICztjm91fhaPhi_-11" vertex="1" connectable="0">
+          <mxGeometry x="0.1974" y="-3" relative="1" as="geometry">
+            <mxPoint x="-192" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-12" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="womPOICztjm91fhaPhi_-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="510" as="sourcePoint" />
+            <mxPoint x="280" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="womPOICztjm91fhaPhi_-15" value="FIL Cross Out Bifrost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="120" y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRQdxyGHGmKx19qUwBg-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;exitX=0.625;exitY=0;exitDx=0;exitDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-6" target="QOcSFR8y_e22kkafj4sU-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="230" />
+              <mxPoint x="300" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GRQdxyGHGmKx19qUwBg-2" value="1. Transfer FIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7GRQdxyGHGmKx19qUwBg-1" vertex="1" connectable="0">
+          <mxGeometry x="0.5811" y="4" relative="1" as="geometry">
+            <mxPoint x="46" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GRQdxyGHGmKx19qUwBg-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.017;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="170" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="231" y="180" />
+              <mxPoint x="220" y="160" />
+              <mxPoint x="190" y="160" />
+              <mxPoint x="180" y="170" />
+              <mxPoint x="170" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GRQdxyGHGmKx19qUwBg-4" value="2. Burn crossed-out FIL." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7GRQdxyGHGmKx19qUwBg-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.0009" relative="1" as="geometry">
+            <mxPoint x="5" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GRQdxyGHGmKx19qUwBg-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-9" target="QOcSFR8y_e22kkafj4sU-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="180" as="sourcePoint" />
+            <mxPoint x="570" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="170" />
+              <mxPoint x="520" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GRQdxyGHGmKx19qUwBg-6" value="4. Transfer FIL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7GRQdxyGHGmKx19qUwBg-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.2242" y="7" relative="1" as="geometry">
+            <mxPoint x="-40" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
