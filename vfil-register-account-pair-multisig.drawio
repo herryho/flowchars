@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T07:13:33.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RhTQcSB5M3plQMG7LJK-" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T07:14:40.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OAFgGNXu6Qsy0BU2Z1eP" version="21.0.2" type="github">
   <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
     <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="QOcSFR8y_e22kkafj4sU-11" value="cross-in-out module" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="168.75" y="230" width="72.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="5.&amp;nbsp;&lt;br&gt;Bind user&#39;s &lt;br&gt;Bifrostaccount and &lt;br&gt;Filecoin account" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-11" edge="1">
+        <mxCell id="QOcSFR8y_e22kkafj4sU-21" value="6.&amp;nbsp;Bind user&#39;s &lt;br&gt;Bifrostaccount and &lt;br&gt;Filecoin account" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" parent="1" source="QOcSFR8y_e22kkafj4sU-11" target="QOcSFR8y_e22kkafj4sU-11" edge="1">
           <mxGeometry x="0.0801" y="-10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="260" as="sourcePoint" />
             <mxPoint x="340" y="210" as="targetPoint" />
@@ -55,7 +55,7 @@
             <mxPoint x="320" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qYzeC_uw3XAvZuTdlHtf-3" value="5.&amp;nbsp; Relayer calls register &lt;br&gt;function&amp;nbsp;in Bifrost" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="womPOICztjm91fhaPhi_-12">
+        <mxCell id="qYzeC_uw3XAvZuTdlHtf-3" value="5.&amp;nbsp; Relay account&lt;br&gt;binding info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="womPOICztjm91fhaPhi_-12">
           <mxGeometry x="-0.0976" y="1" relative="1" as="geometry">
             <mxPoint x="34" y="18" as="offset" />
           </mxGeometry>
