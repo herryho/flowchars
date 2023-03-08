@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T13:51:45.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NmyqAzKKFX5ci7SWJwKn" version="21.0.2" type="github"><diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">3VnbcqM4EP0aP8aFEBj7MbYns1OVVFyb3drM05QMMmgHkBeEL/P1K4HERcKXSUI2s3kJakQLTnefPpJHcJEcPmdoGz3QAMcj2woOI7gc2TZwoMP/CcuxskztaWUIMxLISY3hifzA0mhJa0ECnHcmMkpjRrZdo0/TFPusY0NZRvfdaRsad1fdohAbhicfxab1LxKwSH2F19h/wySM1MpgMqvuJEhNll+SRyig+5YJfhrBRUYpq66SwwLHAjyFS/Xc3Ym79YtlOGXXPLCnyerxy+IH+zuZgU2EVhH5dgPcys0OxYX84t3dl3tueSApI2ko350dFSAMH/hy84glMTcAfpmzjH7HCxrTjFtSmvKZ8w2JY82EYhKmfOjzF8bcPt/hjBEO9a28kZAgEMvM9xFh+GmLfLHmnicWt2W0SAMsvsUS7mnKnuRLATWuksd2+NgER+Il1sSHlkmC9RnTBLPsyKfIu1OZqDJxJzKM+yYLalvUygAobUgmXlg7bmLDL2R4+kO1fYjpvQ1m//jh/Tfmelbw/HgDjEjNySajOTNCxJ3x8jgFZCtyKN9WNbMhBwHtW8AGVL5L3OpKbgEHvB7gauObI2cbyN2RGPuUpB8LOtf9cNBBA7oi57Wrw8a5bSsuI3xAIeW1PN/ijPBXEHWurCtlsi/DW6IqCxq8Dbp1tSp0PRPddy1o5/+DrasX/X+NrdnWzFJPg1shEJoGFaA8KjsM6AIm7CvEOLppabEtWLc9JQpso0XhA2HP0oO4/irsY1eOlofWtOVRDVL+8c/tQespMWweK0fquZMhzGmR+fhygTOUhZhdTlYcdOSSmRCtgLs9AVe2DMeIkV1XZPVlgVxhxcmaNfkGtVqGrpZI1XfLp9qiSHPkAM2RpTmqgDEclUlZf/bL83Ri5OlDwcVtTrjwmsRCaK05I0xCcfW4T8/Qg3+MCc++DF4mgHWVp/fr2oD872GZvY8F424UM+SSJNw3YonZdOy5HbzBzCQKzx67ZuYM1uI8IwQ7xgs7vUmUArYSGhQc718YeqBJiz7cgdVTsJPB5Kxl4G6P+fiPDKX5RiS6VW5ENMz9ItvVHN2icD9GeU78LtoaIdfkOp45XX4Flwi2HK1afbfN8NZ4Yrttlj/L8cNztXclV8vcuLHG0HG6ux3F9+9D5451Qvj+LJ1DR0tznTVO0DnPInRsTduKCfmZ/gP6X7gpiMqj9rRyTzebHA/ST4C5S/ydx+b4azcOONO6dA979cnL6WDkZW4pDXyv15ev140nMf4ges3TZRZ0X1bgnn3B0cB6DZhq4dZn9HR1FUlcTWiOu+7RGscrmhNGxHZuuaaM0aTnPIxRrf5oVWSL+qzzbOx/pr5mXdrsOXiA7ykObPPc4Vx9XdP8Va/uVBXU/s5vzvjAkACNppi6tYj42r7boyicMazn6h47JPFyraAS9c3EwvsQha3rVJ3Cr1YCmqQA+lHDwERhm6c7QMjbP8sjHotXuXCRVO+8KVK/JAMjx3lUSrrQDh+vPknPMG/FaF36E9klhQ137s5H7rI3xc5XpE4q9U8vcpVR+9eNPrKxxrblOJ3gqBPalybP8LrKNg+UoAjnQ/UCuzsSG8F7zVal3lm09xXgFfTU3e94wx0oXcs78EreaW1SLBcYbWlALgIz2NUazgu5yHa6juzZMLuSukerdaaD70r4sPkFs5re/A4MP/0L</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-08T07:28:29.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="diYIBOpeKQDt_8Lece-F" version="21.0.2" type="github">
+  <diagram id="1qVJCfuYaMeoUfc-0dYW" name="Page-1">
+    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="womPOICztjm91fhaPhi_-15" value="vFIL Minting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="88" y="60" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-1" value="&lt;b&gt;Bifrost&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-2" value="&lt;b&gt;Filecoin&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="560" y="150" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-3" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-4" value="user" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pMloL219qcgL_t570dXO-3" target="pMloL219qcgL_t570dXO-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="290" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-6" value="Multisig&lt;br&gt;Owner" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="608.75" y="130" width="72.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-7" value="vtoken-minting module" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="160" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-10" value="1. Transfer FIL" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.94;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.625;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pMloL219qcgL_t570dXO-3" target="pMloL219qcgL_t570dXO-7" edge="1">
+          <mxGeometry x="-0.3448" y="-4" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="150" as="sourcePoint" />
+            <mxPoint x="350" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="150" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-11" value="Relayer" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="400" y="330" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pMloL219qcgL_t570dXO-25" value="2. Mint vFil" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="pMloL219qcgL_t570dXO-7" target="pMloL219qcgL_t570dXO-3" edge="1">
+          <mxGeometry x="-0.3051" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="280" as="sourcePoint" />
+            <mxPoint x="253" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
